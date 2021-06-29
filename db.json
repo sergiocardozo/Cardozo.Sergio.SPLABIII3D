@@ -1,0 +1,54 @@
+{
+  "anuncios": [
+    {
+      "id": 1,
+      "titulo": "Audi",
+      "descripcion": "R8 GT SPYDER",
+      "transaccion": "Venta",
+      "precio": "50000",
+      "puertas": "2",
+      "kilometros": "10000",
+      "potencia": "318"
+    },
+    {
+      "id": 2,
+      "titulo": "Aston Martin",
+      "transaccion": "Venta",
+      "descripcion": "DBS",
+      "precio": 70000,
+      "puertas": 2,
+      "kilometros": 5000,
+      "potencia": 303
+    },
+    {
+      "id": 3,
+      "titulo": "Dodge",
+      "transaccion": "Alquiler",
+      "descripcion": "CHARGER R/T",
+      "precio": 20000,
+      "puertas": 2,
+      "kilometros": 20000,
+      "potencia": 195
+    },
+    {
+      "id": 4,
+      "titulo": "Volkswagen",
+      "transaccion": "Alquiler",
+      "descripcion": "Golf GTI",
+      "precio": 22000,
+      "puertas": 4,
+      "kilometros": 25000,
+      "potencia": 235
+    },
+    {
+      "id": 5,
+      "titulo": "asd",
+      "descripcion": "asd",
+      "transaccion": "Venta",
+      "precio": "123",
+      "puertas": "123",
+      "kilometros": "123",
+      "potencia": "123"
+    }
+  ]
+}
